@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleg Shabashov
+- 👋 Hi, I’m Oleg Shabashov, I have over 12 years of experience in the backend, mostly PHP
 - 🌱 I’m currently switching from PHP to Golang
 - 💞️ Please, take a look at my pet projects:
 
