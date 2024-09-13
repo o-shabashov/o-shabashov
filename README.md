@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleg Shabashov, I have over 12 years of experience in the backend, mostly PHP
+- 👋 Hi, I’m Oleg Shabashov, I have over 16 years of experience in the backend, mostly PHP
 - 💞️ Please, take a look at my pet projects:
 
 ### [Wallswap](https://github.com/o-shabashov?tab=repositories&q=wallswap&type=&language=)
