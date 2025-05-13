@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Oleg Shabashov, I have over 16 years of experience in the backend, mostly PHP
+- 👋 Hi, I’m Oleg Shabashov, I have over 17 years of experience in the backend, mostly PHP
 - 💞️ Please, take a look at my pet projects:
+
+### [Cassie](https://github.com/o-shabashov/cassie)
+
+Cascade search API as a service, with auto-switching search engine on errors. Available engines:
+* Typesense
+* Meilisearch
+* PostgreSQL as a fallback option
 
 ### [Wallswap](https://github.com/o-shabashov?tab=repositories&q=wallswap&type=&language=)
 
